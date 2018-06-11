@@ -1,0 +1,10 @@
+public void MyMethod(string myParam) { }
+string myArg1 = "this is my argument";
+myClass.MyMethod(myArg1);
+
+        Arguments are Actual. "Parameter is a variable in a method definition"
+        but it might be better to say "method declaration".
+>>>>>>   "You define parameters, and you make arguments."  <<<<<<<<<
+
+Comparing composition and inheritance:
+    composition over inheritance -> change interface easily
