@@ -4,6 +4,7 @@ Design patterns are solutions to general problems that software developers faced
                 These design patterns are used when a decision must be made at the time of instantiation of a class
     1.Builder
     2.Singleton
+    3.Factory Pattern
 
     ****************************************************************************************************************
 
@@ -23,6 +24,7 @@ Design patterns are solutions to general problems that software developers faced
 
     1.Strategy Pattern
     2.Observer Pattern
+    3.Command pattern
 
     ***************************************************************************************************************
 
